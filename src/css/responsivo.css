@@ -1,0 +1,30 @@
+@media(max-width: 970px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media(max-width: 660px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+
+    .imagem-demonstracao {
+        display: none;
+    }
+
+    .celular {
+        display: none;
+    }
+
+    .blocos {
+        width: 100%;
+    }
+}
+
+@media(max-width: 316px) {
+    .download {
+        display: flex;
+        flex-direction: column;
+    }
+}
